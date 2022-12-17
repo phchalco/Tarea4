@@ -27,27 +27,27 @@ Identificación de relaciones en serie-paralelo
 El análisis de circuitos en serie-paralelo requiere el uso de la ley de Ohm, las leyes del voltaje y de la corriente de Kirchhoff, 
 y los métodos para determinar resistencia total y potencia que fueron estudiados en los últimos dos capítulos.
 
-![](https://github.com/phchalco/Tarea3/blob/main/20.png)
+![](https://github.com/phchalco/Tarea4/blob/main/Z1.png)
 
 Análisis de circuitos resistivos en serie-paralelo
 
-![](https://github.com/phchalco/Tarea3/blob/main/21.png)
+![](https://github.com/phchalco/Tarea4/blob/main/Z2.png)
 
 Divisores de voltaje con cargas resistivas
 
-![](https://github.com/phchalco/Tarea3/blob/main/22.png)
+![](https://github.com/phchalco/Tarea4/blob/main/Z3.png)
 
 Efecto de carga de un voltímetro
 
-![](https://github.com/phchalco/Tarea3/blob/main/23.png)
+![](https://github.com/phchalco/Tarea4/blob/main/Z4.png)
 
 Redes en escalera
 
-![](https://github.com/phchalco/Tarea3/blob/main/24.png)
+![](https://github.com/phchalco/Tarea4/blob/main/Z5.png)
 
 El puente Wheatstone
 
-![](https://github.com/phchalco/Tarea3/blob/main/25.png)
+![](https://github.com/phchalco/Tarea4/blob/main/Z6.png)
 
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -69,35 +69,35 @@ con ellas en ciertas situaciones.
 
 La fuente de voltaje de cd
 
-![](https://github.com/phchalco/Tarea3/blob/main/29.png)
+![](https://github.com/phchalco/Tarea4/blob/main/W1.png)
 
 La fuente de corriente
 
-![](https://github.com/phchalco/Tarea3/blob/main/30.png)
+![](https://github.com/phchalco/Tarea4/blob/main/W2.png)
 
 Conversiones de fuente
 
-![](https://github.com/phchalco/Tarea3/blob/main/31.png)
+![](https://github.com/phchalco/Tarea4/blob/main/W3.png)
 
 El teorema de superposición
 
-![](https://github.com/phchalco/Tarea3/blob/main/32.png)
+![](https://github.com/phchalco/Tarea4/blob/main/W4.png)
 
 Teorema de Thevenin
 
-![](https://github.com/phchalco/Tarea3/blob/main/23.png)
+![](https://github.com/phchalco/Tarea4/blob/main/W5.png)
 
 Teorema de Norton
 
-![](https://github.com/phchalco/Tarea3/blob/main/33.png)
+![](https://github.com/phchalco/Tarea4/blob/main/W6.png)
 
 Teorema de transferencia de potencia máxima
 
-![](https://github.com/phchalco/Tarea3/blob/main/34.png)
+![](https://github.com/phchalco/Tarea4/blob/main/W7.png)
 
 Conversiones delta a Y (Δ a Y) y Y a delta (Y a Δ)
 
-![](https://github.com/phchalco/Tarea3/blob/main/35.png)
+![](https://github.com/phchalco/Tarea4/blob/main/W8.png)
 
 
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
