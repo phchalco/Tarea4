@@ -52,11 +52,11 @@ El puente Wheatstone
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea3/blob/main/X1X.png)
+![](https://github.com/phchalco/Tarea4/blob/main/X1X.png)
 
-![](https://github.com/phchalco/Tarea3/blob/main/X2X.png)
+![](https://github.com/phchalco/Tarea4/blob/main/X2X.png)
 
-![](https://github.com/phchalco/Tarea3/blob/main/X3X.png)
+![](https://github.com/phchalco/Tarea4/blob/main/X3X.png)
 
 
 Capítulo 8
@@ -102,15 +102,15 @@ Conversiones delta a Y (Δ a Y) y Y a delta (Y a Δ)
 
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea3/blob/main/Y1Y.png)
+![](https://github.com/phchalco/Tarea4/blob/main/Y1Y.png)
 
-![](https://github.com/phchalco/Tarea3/blob/main/Y2Y.png)
+![](https://github.com/phchalco/Tarea4/blob/main/Y2Y.png)
 
-![](https://github.com/phchalco/Tarea3/blob/main/Y3Y.png)
+![](https://github.com/phchalco/Tarea4/blob/main/Y3Y.png)
 
-![](https://github.com/phchalco/Tarea3/blob/main/Y4Y.png)
+![](https://github.com/phchalco/Tarea4/blob/main/Y4Y.png)
 
-![](https://github.com/phchalco/Tarea3/blob/main/Y5Y.png)
+![](https://github.com/phchalco/Tarea4/blob/main/Y5Y.png)
 
 4.-Video
 
