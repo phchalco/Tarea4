@@ -58,6 +58,9 @@ El puente Wheatstone
 
 ![](https://github.com/phchalco/Tarea4/blob/main/X3X.png)
 
+![](https://github.com/phchalco/Tarea4/blob/main/X4X.png)
+
+![](https://github.com/phchalco/Tarea4/blob/main/X5X.png)
 
 Capítulo 8
 
@@ -114,7 +117,7 @@ Conversiones delta a Y (Δ a Y) y Y a delta (Y a Δ)
 
 4.-Video
 
-https://www.youtube.com/watch?v=I0_IO_3N0pQ
+https://www.youtube.com/watch?v=AMgZiZknfkQ
 
 5.-Conclusiones:
 
